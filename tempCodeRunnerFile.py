@@ -1,5 +1,8 @@
-movie1 = input("Enter 1st movie:")
-# movie2 = input("Enter 2nd movie:")
-# movie3 = input("Enter 3rd movie:")
-# movie = [movie1,movie2,movie3]
-# print("The movies are:",movie)
+marks = {}
+# x= int(input("Enter the marks for math:"))
+# y= int(input("Enter the marks for science:"))
+# z= int(input("Enter the marks for account:"))
+# marks.update({"math":x})
+# marks.update({"science":y})
+# marks.update({"account":z})
+# print(marks)
