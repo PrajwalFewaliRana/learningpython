@@ -1,0 +1,13 @@
+num =[1,4,9,16,25,36,49,64,81,100]
+i=0
+while i<=len(num)-1:
+    print(num[i])
+    i+=1
+
+n = 1
+while n<=10:
+    if(n%2!=0):
+        n+=1
+        continue #skip below code
+    print(n)
+    n+=1
