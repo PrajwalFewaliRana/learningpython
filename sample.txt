@@ -1,0 +1,2 @@
+HEllo this is sample file created using write mode
+I am going to append some lines tooo

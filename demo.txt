@@ -1,0 +1,3 @@
+Hello I am Prajwal Magar
+I am learning Python
+if this file inside the another directory it shows error so place it to the root directory
