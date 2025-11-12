@@ -20,6 +20,7 @@ class Account:
         self.__hello()
 a1 = Account(12354,"23edsfe")
     
-# print(a1.__password) #cannot print password outside the class
+print(a1.__password) #cannot print password outside the class
 print(a1.reset_pass())
 print(a1.welcome())
+
